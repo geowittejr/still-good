@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FF0E1416</color>
+    <color name="surface">#FF172024</color>
+    <color name="outline">#FF2A353A</color>
+    <color name="text">#FFE6EEF1</color>
+    <color name="text_muted">#FF9CAAB0</color>
+    <color name="brand">#FF6CC7E6</color>
+    <color name="on_brand">#FF04212C</color>
+    <color name="brand_soft">#FF16343F</color>
+    <color name="fresh">#FF86CC89</color>
+    <color name="fresh_soft">#FF1C3220</color>
+    <color name="soon">#FFF0C35A</color>
+    <color name="soon_soft">#FF382D10</color>
+    <color name="today">#FFFF9E6B</color>
+    <color name="today_soft">#FF3D2314</color>
+    <color name="past">#FFF2B8B5</color>
+    <color name="past_soft">#FF401C1A</color>
+    <color name="ripple">#33FFFFFF</color>
+</resources>

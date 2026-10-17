@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#FFF2F6F7</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="outline">#FFD9E2E5</color>
+    <color name="text">#FF132028</color>
+    <color name="text_muted">#FF56666E</color>
+    <color name="brand">#FF0E6B8A</color>
+    <color name="on_brand">#FFFFFFFF</color>
+    <color name="brand_soft">#FFDCEFF5</color>
+    <color name="fresh">#FF2E7D32</color>
+    <color name="fresh_soft">#FFE2F1E3</color>
+    <color name="soon">#FF8A5C00</color>
+    <color name="soon_soft">#FFFFF0C7</color>
+    <color name="today">#FFB93C0B</color>
+    <color name="today_soft">#FFFFE2D2</color>
+    <color name="past">#FFB3261E</color>
+    <color name="past_soft">#FFFADCD9</color>
+    <color name="ripple">#1F000000</color>
+    <color name="nav_scrim">#66000000</color>
+    <color name="icon_bg">#FF0E6B8A</color>
+</resources>

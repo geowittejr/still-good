@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Stillgood</string>
+
+    <string name="summary_empty">Nothing in the fridge log yet.</string>
+    <string name="summary_all_good">%1$s · all still good</string>
+    <string name="summary_attention">%1$s · %2$d to eat today</string>
+    <plurals name="item_count">
+        <item quantity="one">%d item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+    <string name="empty_title">🧊</string>
+    <string name="empty_body">When you put leftovers away, tap “Add food”. Stillgood keeps the list in eat-by order so nothing gets forgotten at the back of the fridge.</string>
+    <string name="row_detail">In since %1$s · eat by %2$s</string>
+    <string name="row_description">%1$s. %2$s. Eat by %3$s.</string>
+    <string name="tally">Eaten %1$d · Tossed %2$d · %3$d%% saved</string>
+
+    <string name="add_food">+ Add food</string>
+    <string name="action_ate">✓  Ate it</string>
+    <string name="action_tossed">🗑  Tossed it</string>
+    <string name="action_edit">✎  Edit</string>
+    <string name="toast_ate">Nice, nothing wasted.</string>
+    <string name="toast_tossed">Logged as tossed.</string>
+
+    <string name="back">‹ Back</string>
+    <string name="add_title">Add food</string>
+    <string name="edit_title">Edit food</string>
+    <string name="section_what">What is it?</string>
+    <string name="section_name">Name</string>
+    <string name="name_hint">e.g. Lasagna</string>
+    <string name="section_keeps">Keeps for</string>
+    <string name="section_added">Went in the fridge</string>
+    <string name="added_today">Today</string>
+    <string name="added_yesterday">Yesterday</string>
+    <string name="added_two_days">2 days ago</string>
+    <string name="eat_by_preview">Eat by %1$s</string>
+    <string name="save">Save</string>
+    <string name="save_changes">Save changes</string>
+    <string name="default_food_name">Food</string>
+    <string name="decrease_days">One day less</string>
+    <string name="increase_days">One day more</string>
+    <string name="preset_description">%1$s, keeps %2$d days</string>
+    <plurals name="days">
+        <item quantity="one">%d day</item>
+        <item quantity="other">%d days</item>
+    </plurals>
+    <string name="disclaimer">Eat-by dates are rough guides based on USDA FoodKeeper fridge times (40°F / 4°C or colder). Trust your senses, and when in doubt, throw it out.</string>
+</resources>
